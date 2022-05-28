@@ -1,7 +1,7 @@
 # Model-Agnostic Graph Augmentation
 
 This project is a PyTorch implementation of [Model-Agnostic Augmentation for
-Accurate Graph Classification](https://jaeminyoo.github.io/resources/2022/WWW/YooSK22.pdf)
+Accurate Graph Classification](https://arxiv.org/abs/2202.10107)
 (WWW 2022). This paper proposes NodeSam and SubMix, two novel algorithms for
 model-agnostic graph augmentation.
 

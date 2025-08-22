@@ -63,23 +63,11 @@ Please cite the following paper if you use our code:
   author    = {Jaemin Yoo and
                Sooyeon Shim and
                U Kang},
-  editor    = {Fr{\'{e}}d{\'{e}}rique Laforest and
-               Rapha{\"{e}}l Troncy and
-               Elena Simperl and
-               Deepak Agarwal and
-               Aristides Gionis and
-               Ivan Herman and
-               Lionel M{\'{e}}dini},
   title     = {Model-Agnostic Augmentation for Accurate Graph Classification},
   booktitle = {{WWW} '22: The {ACM} Web Conference 2022, Virtual Event, Lyon, France,
                April 25 - 29, 2022},
   pages     = {1281--1291},
   publisher = {{ACM}},
   year      = {2022},
-  url       = {https://doi.org/10.1145/3485447.3512175},
-  doi       = {10.1145/3485447.3512175},
-  timestamp = {Thu, 23 Jun 2022 19:54:34 +0200},
-  biburl    = {https://dblp.org/rec/conf/www/YooSK22.bib},
-  bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 ```

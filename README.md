@@ -59,15 +59,11 @@ optional arguments given to `run.py` are passed also to `main.py`.
 
 Please cite the following paper if you use our code:
 ```
-@inproceedings{DBLP:conf/www/YooSK22,
-  author    = {Jaemin Yoo and
-               Sooyeon Shim and
-               U Kang},
-  title     = {Model-Agnostic Augmentation for Accurate Graph Classification},
-  booktitle = {{WWW} '22: The {ACM} Web Conference 2022, Virtual Event, Lyon, France,
-               April 25 - 29, 2022},
-  pages     = {1281--1291},
-  publisher = {{ACM}},
-  year      = {2022},
+@inproceedings{yoo2022model,
+  title={Model-agnostic augmentation for accurate graph classification},
+  author={Yoo, Jaemin and Shim, Sooyeon and Kang, U},
+  booktitle={Proceedings of the ACM Web Conference 2022},
+  pages={1281--1291},
+  year={2022}
 }
 ```
